@@ -23,7 +23,7 @@ h1 {
 3. Realiza un commit con el mensaje: "Estilo del título agregado"
 4. Sube la rama al repositorio en GitHub
 5. Crea un Pull Request desde rama-estilos hacia main.
-6. Haz el merge del Pull Request y elimina la rama si se te solicita.
+6. Haz el merge del Pull Request.
 
 Entrega
 Verifica que en GitHub estén:
