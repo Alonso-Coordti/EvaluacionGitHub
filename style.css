@@ -1,4 +1,4 @@
-html {
+.body {
     background-color: lightgray;
 }
 h1 { color: blue; text-align: center; }
@@ -6,3 +6,21 @@ h1 { color: blue; text-align: center; }
     color: blue;
 }
 .h1 { color: brown; text-align: center; }
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+.h1{
+    color: blue;
+    text-align: center;
+  }
+
+.body {
+    background-color: lightgray;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
