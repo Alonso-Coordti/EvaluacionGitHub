@@ -1,4 +1,8 @@
-
-html{
+html {
     background: lightgray;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
 }
