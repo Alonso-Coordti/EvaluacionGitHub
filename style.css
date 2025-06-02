@@ -1,5 +1,5 @@
 .body {
-    background-color: lightgray;
+    background-color: lavender;
 }
 h1 { color: blue; text-align: center; }
 .li{
@@ -21,6 +21,11 @@ h1 {
 }
 
 h1 {
+    color: blue;
+    text-align: center;
+}
+
+h2 {
     color: blue;
     text-align: center;
 }
