@@ -1,5 +1,5 @@
-html {
-    background: lightgray;
+.body {
+    background-color: lightgray;
 }
 
 body{
@@ -10,4 +10,13 @@ h1 {
     color: blue;
     font-size: 15vh;
     text-align: center;
+}
+
+.h1{
+    color: blue;
+    text-align: center;
+  }
+
+.body {
+    background-color: lightgray;
 }
