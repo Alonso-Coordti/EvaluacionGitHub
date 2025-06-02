@@ -2,8 +2,13 @@
     background-color: lightgray;
 }
 
+body{
+    background-color: lightgray:
+}
+
 h1 {
     color: blue;
+    font-size: 15vh;
     text-align: center;
 }
 
