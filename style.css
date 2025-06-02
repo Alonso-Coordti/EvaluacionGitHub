@@ -1,7 +1,11 @@
 .body {
     background-color: lavender;
 }
-
+h1 { color: blue; text-align: center; }
+.li{
+    color: blue;
+}
+.h1 { color: brown; text-align: center; }
 h1 {
     color: blue;
     text-align: center;
@@ -20,6 +24,7 @@ h1 {
     color: blue;
     text-align: center;
 }
+
 h2 {
     color: blue;
     text-align: center;
