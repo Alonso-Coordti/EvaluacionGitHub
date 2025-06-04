@@ -1,8 +1,43 @@
+
 html {    
     background-color: lightgray;
+
+.body {
+    background-color: lavender;
+
+}
+h1 { color: blue; text-align: center; }
+h1 { color: blue; justify-content: center; } /*DWEB10 */
+.li{
+    color: blue;
+}
+.h1 { color: brown; text-align: center; }
+h1 {
+    color: blue;
+    text-align: center;
 }
 
+.h1{
+    color: blue;
+    text-align: center;
+  }
+
+.body {background-color: lightgray;}
+
 h1 {
+
   color: blue;
   text-align: center; 
 }
+
+    color: blue;
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+}
+h1 { color: blue; text-align: center; }
+h2 { color: green; text-align: center; }
+
